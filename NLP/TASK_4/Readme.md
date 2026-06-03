@@ -178,12 +178,9 @@ Amrutha Reddy
 
 ---
 
-## GitHub Repository
-
-[Add Your GitHub Repository Link Here]
 
 ---
 
 ## LinkedIn Post
 
-[Add Your LinkedIn Post Link Here]
+[https://www.linkedin.com/posts/amruthasaiyarragodala_nlp-bert-distilbert-ugcPost-7467810903409975296-d5Ks/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhwzgkBTYftQx4zWIcn2QMRyawCJT86m8E]
