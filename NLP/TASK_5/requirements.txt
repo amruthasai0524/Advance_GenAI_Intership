@@ -1,0 +1,9 @@
+transformers
+datasets
+torch
+accelerate
+evaluate
+seqeval
+conllu
+numpy
+pandas
